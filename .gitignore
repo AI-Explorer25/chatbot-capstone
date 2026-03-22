@@ -179,3 +179,14 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# Virtual environments
+venv/
+.env/
+
+# TensorFlow/Keras model files
+*.keras
+
+# Data
+data/*.npy
+data/*.pkl
