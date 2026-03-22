@@ -1,7 +1,7 @@
 # LSTM Generative Chatbot Capstone Project
 
 **Author:** Owen  
-**Codecademy Username:** [YourCodecademyUsername]
+**Codecademy Username:** AIExplorer
 
 ---
 
@@ -65,7 +65,6 @@ The project was trained on a standard CPU without GPU acceleration, which result
 
 Install dependencies using:
 
-
 ```
 bash pip install -r requirements.txt
 ```
@@ -84,6 +83,7 @@ The merged dataset is included in the repository as `data/combined_chat_data.txt
 ## How to Run
 
 Ensure the `models/` folder exists with the saved trained models (`chatbot_model.keras`, `encoder_model.keras`, `decoder_model.keras`).  
+> **Note:** Models are not included. Run `train_model.py` to generate them.
 
 Run the chatbot in terminal:
 
