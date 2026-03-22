@@ -102,5 +102,5 @@ Type messages to interact; type `exit` or `quit` to stop.
 
 Here are example interactions with the chatbot:
 
-![Chat Example 1](screenshots/chat1.png)  
-![Chat Example 2](screenshots/chat2.png)
+![Chat Example 1](screenshots/chat1.PNG)  
+![Chat Example 2](screenshots/chat2.PNG)
