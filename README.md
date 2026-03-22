@@ -1,7 +1,7 @@
 # LSTM Generative Chatbot Capstone Project
 
 **Author:** Owen  
-**Codecademy Username:** [YourCodecademyUsername]
+**Codecademy Username:** AIExplorer
 
 ---
 
