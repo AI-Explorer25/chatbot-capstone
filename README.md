@@ -65,10 +65,10 @@ The project was trained on a standard CPU without GPU acceleration, which result
 
 Install dependencies using:
 
-```
-bash
-pip install -r requirements.txt
 
+```
+bash pip install -r requirements.txt
+```
 ---
 
 ## Dataset
@@ -88,9 +88,8 @@ Ensure the `models/` folder exists with the saved trained models (`chatbot_model
 Run the chatbot in terminal:
 
 ```
-bash
-python chat.py
-
+bash python chat.py
+```
 ---
 
 **How to Interact**
